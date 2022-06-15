@@ -47,5 +47,5 @@
 * */
 // 约束传进来的 K 必须是 T 里面存在的子类型
 type MyPick<T, K extends keyof T> = {
-    [P in K]: T[P]
+   [P in K]: T[P]
 }
