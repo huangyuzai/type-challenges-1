@@ -4,7 +4,7 @@
 - [x] 00011-easy-tuple-to-object
 - [x] 00014-easy-first-of-array
 - [x] 00018-easy-length-of-tuple
-- [ ] 00043-easy-exclude
+- [x] 00043-easy-exclude
 - [ ] 000189-easy-awaited
 - [ ] 000268-easy-if
 - [ ] 000533-easy-concat
