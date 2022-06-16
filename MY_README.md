@@ -1,8 +1,8 @@
-# easy (3/13)
+# easy (4/13)
 - [x] 00004-easy-pick
 - [x] 00007-easy-readonly
 - [x] 00011-easy-tuple-to-object
-- [ ] 00014-easy-first-of-array
+- [x] 00014-easy-first-of-array
 - [ ] 00018-easy-length-of-tuple
 - [ ] 00043-easy-exclude
 - [ ] 000189-easy-awaited
