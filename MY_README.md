@@ -1,4 +1,4 @@
-# easy (8/13)
+# easy (10/13)
 - [x] 00004-easy-pick
 - [x] 00007-easy-readonly
 - [x] 00011-easy-tuple-to-object
