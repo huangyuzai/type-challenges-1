@@ -13,8 +13,8 @@
 - [x] 03060-easy-unshift
 - [x] 03312-easy-parameters  
 
-# medium (0/68)
-- [ ] 00002-medium-get-return-type
+# medium (1/68)
+- [x] 00002-medium-get-return-type
 - [ ] 00003-medium-omit
 - [ ] 00008-medium-readonly-2
 - [ ] 00009-medium-deep-readonly
