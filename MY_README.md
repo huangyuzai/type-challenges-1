@@ -8,7 +8,7 @@
 - [x] 00189-easy-awaited
 - [x] 00268-easy-if
 - [x] 00533-easy-concat
-- [ ] 00898-easy-includes
+- [x] 00898-easy-includes
 - [ ] 03057-easy-push
 - [ ] 03060-easy-unshift
 - [ ] 03312-easy-parameters  
