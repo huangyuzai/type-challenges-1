@@ -1,4 +1,4 @@
-# easy (7/13)
+# easy (8/13)
 - [x] 00004-easy-pick
 - [x] 00007-easy-readonly
 - [x] 00011-easy-tuple-to-object
@@ -6,7 +6,7 @@
 - [x] 00018-easy-length-of-tuple
 - [x] 00043-easy-exclude
 - [x] 00189-easy-awaited
-- [ ] 00268-easy-if
+- [x] 00268-easy-if
 - [ ] 00533-easy-concat
 - [ ] 00898-easy-includes
 - [ ] 03057-easy-push
@@ -19,3 +19,66 @@
 - [ ] 00008-medium-readonly-2
 - [ ] 00009-medium-deep-readonly
 - [ ] 00010-medium-deep-tuple-to-union
+- [ ] 00012-medium-chainable-options
+- [ ] 00015-medium-last
+- [ ] 00016-medium-pop
+- [ ] 00020-medium-promise-all
+- [ ] 00062-medium-type-lookup
+- [ ] 00106-medium-trimleft
+- [ ] 00108-medium-trim
+- [ ] 00110-medium-capitalize
+- [ ] 00116-medium-replace
+- [ ] 00119-medium-replaceall
+- [ ] 00191-medium-append-argument
+- [ ] 00296-medium-permutation
+- [ ] 00298-medium-length-of-string
+- [ ] 00459-medium-flatten
+- [ ] 00527-medium-append-to-object
+- [ ] 00529-medium-absolute
+- [ ] 00531-medium-string-to-union
+- [ ] 00599-medium-merge
+- [ ] 00612-medium-kebabcase
+- [ ] 00645-medium-diff
+- [ ] 00949-medium-anyof
+- [ ] 01042-medium-isnever
+- [ ] 01097-medium-isunion
+- [ ] 01130-medium-replacekeys
+- [ ] 01367-medium-remove-index-signature
+- [ ] 01978-medium-percentage-parser
+- [ ] 02070-medium-drop-char
+- [ ] 02257-medium-minusone
+- [ ] 02595-medium-pickbytype
+- [ ] 02688-medium-startswith
+- [ ] 02693-medium-endswith
+- [ ] 02757-medium-partialbykeys
+- [ ] 02759-medium-requiredbykeys
+- [ ] 02793-medium-mutable
+- [ ] 02852-medium-omitbytype
+- [ ] 02946-medium-objectentries
+- [ ] 03062-medium-shift
+- [ ] 03188-medium-tuple-to-nested-object
+- [ ] 03192-medium-reverse
+- [ ] 03196-medium-flip-arguments
+- [ ] 03243-medium-flattendepth
+- [ ] 03326-medium-bem-style-string
+- [ ] 03376-medium-inordertraversal
+- [ ] 04179-medium-flip
+- [ ] 04182-medium-fibonacci-sequence
+- [ ] 04260-medium-nomiwase
+- [ ] 04425-medium-greater-than
+- [ ] 04471-medium-zip
+- [ ] 04484-medium-istuple
+- [ ] 04499-medium-chunk
+- [ ] 04518-medium-fill
+- [ ] 04803-medium-trim-right
+- [ ] 05117-medium-without
+- [ ] 05140-medium-trunc
+- [ ] 05153-medium-indexof
+- [ ] 05310-medium-join
+- [ ] 05317-medium-lastindexof
+- [ ] 05360-medium-unique
+- [ ] 05821-medium-maptypes
+- [ ] 07544-medium-construct-tuple
+- [ ] 08640-medium-number-range
+- [ ] 08767-medium-combination
+- [ ] 08987-medium-subsequence
