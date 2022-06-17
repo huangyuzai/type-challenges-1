@@ -1,4 +1,4 @@
-# easy (10/13)
+# easy (11/13)
 - [x] 00004-easy-pick
 - [x] 00007-easy-readonly
 - [x] 00011-easy-tuple-to-object
@@ -9,7 +9,7 @@
 - [x] 00268-easy-if
 - [x] 00533-easy-concat
 - [x] 00898-easy-includes
-- [ ] 03057-easy-push
+- [x] 03057-easy-push
 - [ ] 03060-easy-unshift
 - [ ] 03312-easy-parameters  
 
