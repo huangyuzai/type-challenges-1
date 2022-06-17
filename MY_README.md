@@ -7,7 +7,7 @@
 - [x] 00043-easy-exclude
 - [x] 00189-easy-awaited
 - [x] 00268-easy-if
-- [ ] 00533-easy-concat
+- [x] 00533-easy-concat
 - [ ] 00898-easy-includes
 - [ ] 03057-easy-push
 - [ ] 03060-easy-unshift
