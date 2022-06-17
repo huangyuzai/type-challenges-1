@@ -1,4 +1,4 @@
-# easy (12/13)
+# easy (13/13)
 - [x] 00004-easy-pick
 - [x] 00007-easy-readonly
 - [x] 00011-easy-tuple-to-object
@@ -11,7 +11,7 @@
 - [x] 00898-easy-includes
 - [x] 03057-easy-push
 - [x] 03060-easy-unshift
-- [ ] 03312-easy-parameters  
+- [x] 03312-easy-parameters  
 
 # medium (0/68)
 - [ ] 00002-medium-get-return-type
